@@ -8,7 +8,7 @@
 
 👯 **I’m looking to collaborate on**: open-source projects & DAOs projects to work on.
 
-🌎 **I'm a remote worker, love working from my home.
+🌎 **I'm a remote worker, love working from home.
 
 🤓 **I'm looking for my first full-time job as a Dev.
 

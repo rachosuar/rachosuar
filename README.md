@@ -8,9 +8,9 @@
 
 👯 **I’m looking to collaborate on**: open-source projects & DAOs projects to work on.
 
-🌎 **I'm a remote worker, love working from home.
+🌎 **I'm a remote worker**, love working from home.
 
-🤓 **I'm looking for my first full-time job as a Dev.
+🤓 **I'm looking for my first full-time job as a Dev**.
 
 
 💥 **Fun fact**: I was a military pilot, I used to fly huge transport aircraft ✈️ <a href="https://www.lockheedmartin.com/en-us/products/c130.html"> (C-130  the best) </a>

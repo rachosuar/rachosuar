@@ -43,16 +43,16 @@
 </p>
   
   
- <p align="center">  🌏 <a href= "https://juan-cruz-suarez.netlify.app/">  Website  </a> 🌎 </p>
-  
-  
-  
+
 - 📫 How to reach me </br>
     Email: juan_suar@hotmail.com </br>
     Discord: Racho#8214 </br>
     Telegram: @rachosuarez </br>
     Whatsapp: 54 9 1137607988
 
+
+
+<p align="center">  🌏 <a href= "https://juan-cruz-suarez.netlify.app/">  Website  </a> 🌎 </p>
 
 <br/>
 

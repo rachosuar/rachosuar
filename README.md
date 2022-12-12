@@ -41,7 +41,9 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachosuar&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
-
+  
+  
+  🌏 <a href= "https://juan-cruz-suarez.netlify.app/"> Website </a>
 - 📫 How to reach me </br>
     Email: juan_suar@hotmail.com </br>
     Discord: Racho#8214 </br>

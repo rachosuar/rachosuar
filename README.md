@@ -44,16 +44,13 @@
   
   
   <p align="center"> 
-  **How to reach me **</br>
-</br>
+  **How to reach me **
+  </br>
      <a href="mailto:juan_suar@hotmail.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/600px-Mail_%28iOS%29.svg.png" alt="Mail" width="70" height="70"/> </a> </br></br></br>
    <a href="https://t.me/rachosuarez" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="70" height="70"/> </a> </br> </br></br>
      <a href="https://twitter.com/rachosuarez" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" alt="Twitter" width="70" height="70"/> </a> </br></br></br>
-     
-  <a href= "https://juan-cruz-suarez.netlify.app/"  target="_blank" rel="noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/512px-Circle-icons-dev.svg.png" alt="Personal Website" width="70" height="70"/> </a> </br>
-
-   
-   </p>
+      <a href="https://juan-cruz-suarez.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/512px-Circle-icons-dev.svg.png"alt="PersonalWebsite" width="70" height="70"/> </a> 
+   </br>  </p>
 
 
 

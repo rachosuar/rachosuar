@@ -45,10 +45,11 @@
   
 
 - 📫 How to reach me </br>
-    Email: juan_suar@hotmail.com </br>
-    Discord: Racho#8214 </br>
-    Telegram: @rachosuarez </br>
-    Whatsapp: 54 9 1137607988
+    📨: juan_suar@hotmail.com </br>
+   <p align="center"> <a href="https://t.me/rachosuarez" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="70" height="70"/> </a> </br>
+     <a href="https://twitter.com/rachosuarez" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" alt="Twitter" width="70" height="70"/> </a> </br>
+   
+   </p>
 
 
 

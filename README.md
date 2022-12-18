@@ -60,4 +60,4 @@
 
 <br/>
 
-**    THANK U FOR READING... **
+   **THANK U FOR READING..**

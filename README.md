@@ -41,10 +41,12 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachosuar&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
-  
+   
+   
+  ##How to reach me :
   
   <p align="center"> 
-  **How to reach me **
+  </br>
   </br>
      <a href="mailto:juan_suar@hotmail.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/600px-Mail_%28iOS%29.svg.png" alt="Mail" width="70" height="70"/> </a> </br></br></br>
    <a href="https://t.me/rachosuarez" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="70" height="70"/> </a> </br> </br></br>

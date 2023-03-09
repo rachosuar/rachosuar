@@ -2,9 +2,9 @@
 
 👦🏻 **Pronouns**: He/Him
 
-🔭 **I’m currently working on**: **Solidity**, **ReactJS**, **Defi**, **Dapp**, **NFT** ,**IPFS**
+🔭 **I’m currently working on**: **ERC-4337 Account Abstractiony**, **Defi**, **Dapp**
 
-🌱 **I’m currently learning**: Right now I'm fully in with **Solidity Security** and **Web3** 
+🌱 **I’m currently learning**:  **Solidity Security** and **Python** 
 
 👯 **I’m looking to collaborate on**: open-source projects & DAOs projects to work on.
 

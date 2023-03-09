@@ -1,4 +1,4 @@
-🇦🇷 Hi there, I'm a Junior Full-Stack Blockchain Developer  
+🇦🇷 Hi there, I'm a Full-Stack Blockchain Developer  
 
 👦🏻 **Pronouns**: He/Him
 

@@ -2,9 +2,9 @@
 
 👦🏻 **Pronouns**: He/Him
 
-🔭 **I’m currently working on**: **ERC-4337 Account Abstractiony**, **Defi**, **Dapp**
+🔭 **I’m currently working on**: **ERC-4337 Account Abstraction**, **Defi**, **Dapp**
 
-🌱 **I’m currently learning**:  **Solidity Security** and **Python** 
+🌱 **I’m currently learning**:  **CyberSecurity** and **Python** 
 
 👯 **I’m looking to collaborate on**: open-source projects & DAOs projects to work on.
 

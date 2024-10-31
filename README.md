@@ -1,7 +1,5 @@
 🇦🇷 Hi there, I'm a Full-Stack Blockchain Developer  
 
-👦🏻 **Pronouns**: He/Him
-
 🔭 **I’m currently working on**: **ERC-4337 Account Abstraction**, **Defi**, **Dapp**
 
 🌱 **I’m currently learning**:  **CyberSecurity** and **Python** 
